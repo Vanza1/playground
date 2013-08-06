@@ -15,5 +15,4 @@ def fib():
     def __next__(self):
         pass
     
-    
-   
+print'hh'
